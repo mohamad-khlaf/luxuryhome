@@ -47,7 +47,7 @@ header .logo {
 }
 header img {
   width: 300px;
-  margin-top: -30px;
+  margin-top: -47px;
 } /* End header */
 
 section .container {
@@ -59,24 +59,11 @@ section .container {
   flex-wrap: wrap;
   margin-top: -55px;
 }
-section .container .img {
-  width: 50%;
-}
-section .container .img img {
-  width: 190px;
-}
-section .container .content {
-  padding: 14px;
-}
-section .container .content h1 {
-  font-size: 34px;
-  font-family: "Shadows Into Light", cursive;
-  color: gold;
-}
+
 section .container p {
   font-size: 20px;
   color: white;
-  margin-bottom: 80px;
+  margin-bottom: 30px;
   font-weight: bold;
   line-height: 2;
 }
@@ -88,7 +75,7 @@ section .container p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 55px;
+  gap: 35px;
   text-align: center;
 }
 .btns a {
@@ -139,5 +126,6 @@ section .container p {
   color: #25d366;
 }
 .store {
-  background: #8a9eae;
+  background: #000;
+  color: yellow !important;
 }
