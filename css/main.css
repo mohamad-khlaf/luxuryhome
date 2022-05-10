@@ -58,6 +58,7 @@ section .container {
   justify-content: center;
   flex-wrap: wrap;
   margin-top: -55px;
+  flex-direction: column;
 }
 
 section .container p {
